@@ -1,0 +1,2 @@
+torch>=2.0
+# 可选：pip install pywebview  → app.py 将以原生桌面窗口运行
